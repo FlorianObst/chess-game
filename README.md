@@ -2,12 +2,12 @@
 
 ## Purpose:
 
-This game enables you to play chess with a friend in the console.
+Simple chess game that lets two players play chess again each other
 
-Description:
+## Description:
 
-The game uses unicode to display the characters in the console. Players can move the figures and then the board is shown again after each move. Player input is given in standard chess notation e.g. e6 to e5.
+This game displays a graphical representation of a chess game in the console using Unicode characters. Players take turns to move their chess pieces in standard notation (i.e. b3 to c4). Basic chess rules have been incorporated.
 
-Background:
+## Background:
 
-This game was created as part of an excercise for the COMPGC01 Introduction to programming course taken as part of the Msc in Computer Science taken at the University College London. It was created in my second week of coding, so please don't be so hard on me ;D
+This program was an assignment of the course COMPGC01 - Introduction to Programming - at University College London. It was created in my second week of coding, so please don't be so hard on me ;D
