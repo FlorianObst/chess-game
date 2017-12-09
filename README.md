@@ -2,7 +2,7 @@
 
 ## Purpose:
 
-Simple chess game that lets two players play chess again each other
+Chess game that lets two players play chess again each other
 
 ## Description:
 
